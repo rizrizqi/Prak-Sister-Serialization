@@ -6,7 +6,7 @@ package Serialization;
 
 /**
  *
- * @author ASUS
+ * @author Rizqi
  */
 import ObjectSerialization.*;
 import java.io.BufferedReader;
