@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author ASUS
+ * @author Rizqi
  */
 public class taskHomeParticipant implements Serializable{
     private int nim;
